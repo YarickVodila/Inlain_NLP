@@ -117,4 +117,4 @@
 </ul>  
 
 В результате, модель имеет значение метрики accuracy = 0.94, F1 weighted avg = 0.94. Что в целом является неплохим результатом, но как было сказано выше, данные имеют высокий дисбаланс классов и из-за этого модель плохо распознает классы, которые имеют мало обучающих данных. Расчёт метрик представлен на рисунке 1.
-<img scr = "https://github.com/YarickVodila/Inlain_NLP/blob/master/classification_report.png">
+<img src = "https://github.com/YarickVodila/Inlain_NLP/blob/master/classification_report.png">
